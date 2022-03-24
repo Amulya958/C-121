@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    background-color: whitesmoke;
+}
+
+.heading
+{
+    font-size:23px ;
+    width: 100%;
+    margin:0px ;
+}
+
+#status
+{
+    font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+h5{
+    background-color: rgb(218, 214, 214);
+    
+}
+
+div{
+    background-color: rgb(218, 214, 214);
+}
+
+
+br{
+    background-color: rgb(218, 214, 214);
+}
